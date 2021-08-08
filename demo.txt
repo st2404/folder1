@@ -1,1 +1,2 @@
 Demo.txt file text
+Adding new line
