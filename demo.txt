@@ -1,2 +1,3 @@
 Demo.txt file text
 Adding new line
+Adding 3rd line
